@@ -1,0 +1,6 @@
+projeto sendo desenvolvido depois da kipper dev aguçar com o tema java roadmap two thousand five...
+brincadeiras a parte, ótimo tema para por em pratica e dar uma metrica e  fazer uma balanço em relação aos estudos
+devagar vamos retificando e evoluindo o projeto, porem nate o presente momento crud implementado e testado via banco em memoria
+bacaba a impregação de validaçoes com anotations, tornando mais claro as sintaxe de validação como com valid, requestbody e pathvariable
+por hora é isso...
+
